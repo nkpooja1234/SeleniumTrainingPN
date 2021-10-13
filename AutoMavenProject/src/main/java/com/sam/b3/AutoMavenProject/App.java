@@ -1,13 +1,19 @@
 package com.sam.b3.AutoMavenProject;
 
+import org.openqa.selenium.WebDriver;
+
 /**
  * Hello world!
  *
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+	public WebDriver myD;
+	public App(WebDriver myD) {
+		super();
+		this.myD = myD;
+	}
+
+	
+    
 }

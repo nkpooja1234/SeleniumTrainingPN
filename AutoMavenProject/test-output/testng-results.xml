@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8635" started-at="2021-10-07T07:24:03Z" finished-at="2021-10-07T07:24:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8635" started-at="2021-10-07T07:24:03Z" finished-at="2021-10-07T07:24:12Z">
+      <class name="com.sam.b3.AutoMavenProject.TestDemo5">
+        <test-method status="PASS" signature="OpenApp(java.lang.String)[pri:0, instance:com.sam.b3.AutoMavenProject.TestDemo5@d8355a8]" name="OpenApp" duration-ms="8585" started-at="2021-10-07T07:24:03Z" finished-at="2021-10-07T07:24:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+      </class> <!-- com.sam.b3.AutoMavenProject.TestDemo5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
